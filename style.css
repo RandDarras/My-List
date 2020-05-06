@@ -1,0 +1,53 @@
+/*body{
+
+	background-color: RGB(255,241,237)
+
+}
+*/
+
+
+#welcoming{
+
+     position: fixed;
+     top:40%;
+     left: 60%;
+     right:0;
+	padding: 0px 200px 0px 0px  
+}
+
+.split {
+
+  height: 100%;
+  width: 60%;
+  position: fixed;
+  top: 0;
+  padding-top: 200px;
+/*  padding-left: 35px*/
+
+}
+
+.left {
+
+  left: 0;
+  background-color:  RGB(255,241,237);
+
+}
+
+.right {
+
+  right: 0;
+  background-color: RGB(55,75,115);
+}
+
+/*.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+}*/
